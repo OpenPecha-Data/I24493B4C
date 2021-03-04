@@ -1,15 +1,16 @@
-id: opecha:P000580
+id: P000580
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN6870
   title: ཆར་རླུང་རྗེས་ཀྱི་ཉི་འོད།
-  volume:
+  author: ''
+  volumes:
     c37b67c3a01644e7be0673bff25212b1:
       image_group_id: I3CN6872
       title: Volume 1 of char rlung rjes kyi nyi 'od/
       volume_number: 1
       total_pages: 444
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: ཆར་རླུང་རྗེས་ཀྱི་ཉི་འོད།
   author: ''
